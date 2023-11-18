@@ -67,7 +67,7 @@ width: 100%;
     height: auto;
     width: 100%;
     max-width: 200px;
-    border-radius: 0.3rem;
+    border-radius: 50%;
 }
 
 .section-one .container-one .team-card .card .content {
