@@ -101,7 +101,7 @@ width: 100%;
 
 @media screen and (max-width:768px) {
     .section-one .row-one .title-one h1 {
-        font-size: 1em;
+        font-size: 0.8em;
     }
 }
 
