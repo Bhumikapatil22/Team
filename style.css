@@ -15,22 +15,22 @@
     margin: auto;
 }
 
-.section-one .container-one .row-one {
+.section-one .row-one {
     width: 100%;
     margin: auto;
 }
 
-.section-one .container-one .row-one .title-one {
+.section-one .row-one .title-one {
     text-align: center;
     margin-top: 50px;
 }
 
-.section-one .container-one .row-one .title-one h1 {
+.section-one .row-one .title-one h1 {
     font-size: 1.8em;
 
 }
 
-.section-one .container-one .row-one .title-one p {
+.section-one .row-one .title-one p {
     color: gray;
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
@@ -47,7 +47,7 @@
 
 .section-one .container-one .team-card .card {
     width: 100%;
-    background-color: white;
+    background-color: #f3f3f3;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -58,7 +58,7 @@
 }
 
 .section-one .container-one .team-card .card:hover {
-    background-color: #f3f3f3;
+    background-color: #b6b6b6;
     transition: 0.3s;
 }
 
